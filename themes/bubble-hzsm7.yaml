@@ -280,7 +280,7 @@ bubble-hzsm7:
       mini-media-player-base-color: "var(--text-color)"
       mini-media-player-accent-color: "var(--accent-color)"
 
-  card-mod-theme: Bubble
+  card-mod-theme: bubble-hzsm7
 
   card-mod-more-info-yaml: |
     $: |
